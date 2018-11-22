@@ -9,7 +9,7 @@ import pluginImport from '@/plugin/import'
 Vue.use(pluginImport)
 ```
 
-之后就可以在组件中使用 `this.$import` 来调用导出功能
+之后就可以在组件中使用 `this.$import` 来调用导入功能
 
 ::: tip
 d2admin 已经帮你注册好，可以直接使用，无需写上面的代码
